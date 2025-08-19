@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 iron man
 titanic
 conair
-=======
 coco
 mama
 avocado
->>>>>>> foods
